@@ -1,0 +1,1327 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="ru">
+  <siteinfo>
+    <sitename>Semicraft</sitename>
+    <dbname>mediawiki_semicraft</dbname>
+    <base>https://semi.kotaz.ru/p/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0</base>
+    <generator>MediaWiki 1.45.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Медиа</namespace>
+      <namespace key="-1" case="first-letter">Служебная</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Обсуждение</namespace>
+      <namespace key="2" case="first-letter">Участник</namespace>
+      <namespace key="3" case="first-letter">Обсуждение участника</namespace>
+      <namespace key="4" case="first-letter">Semicraft</namespace>
+      <namespace key="5" case="first-letter">Обсуждение Semicraft</namespace>
+      <namespace key="6" case="first-letter">Файл</namespace>
+      <namespace key="7" case="first-letter">Обсуждение файла</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Обсуждение MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Шаблон</namespace>
+      <namespace key="11" case="first-letter">Обсуждение шаблона</namespace>
+      <namespace key="12" case="first-letter">Справка</namespace>
+      <namespace key="13" case="first-letter">Обсуждение справки</namespace>
+      <namespace key="14" case="first-letter">Категория</namespace>
+      <namespace key="15" case="first-letter">Обсуждение категории</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Armorstand</title>
+    <ns>0</ns>
+    <id>353</id>
+    <revision>
+      <id>723</id>
+      <timestamp>2026-06-10T17:27:52Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Stub|комментарий=Черновик. Необходимо добавить координаты мест, где чаще всего находят таблички от Арморстенда.}}  {{Сущность | название    = Armor Stand (Ожившая стойка) | изображение = Armorstand_placeholder.png | тип         = Аномальный объект | угроза      = Низкая (Помощн...»</comment>
+      <origin>723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1736" sha1="20w19uy4xe6fy387641t7abwqjvdi10" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Черновик. Необходимо добавить координаты мест, где чаще всего находят таблички от Арморстенда.}}
+
+{{Сущность
+| название    = Armor Stand (Ожившая стойка)
+| изображение = Armorstand_placeholder.png
+| тип         = Аномальный объект
+| угроза      = Низкая (Помощник)
+| поведение   = Мирное, помогает игрокам
+| особенности = Общается с помощью размещения табличек, перемещается незаметно
+}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+'''Armor Stand''' (Ожившая стойка для брони) — мирная аномальная сущность на сервере Semicraft. 
+
+&lt;!--T:2--&gt;
+== Поведение и особенности ==
+
+В отличие от большинства других аномалий, Стойка не пытается нанести урон исследователям. Её основная активность заключается в следующем:
+* Сущность перемещается по миру скрытно, чаще всего в моменты, когда игроки не смотрят в её сторону.
+* Она оставляет полезные подсказки, размещая деревянные таблички с короткими текстовыми сообщениями.
+* В некоторых случаях Стойка оказывает помощь игрокам в навигации или поиске скрытых проходов.
+&lt;/translate&gt;</text>
+      <sha1>20w19uy4xe6fy387641t7abwqjvdi10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>FAQ</title>
+    <ns>0</ns>
+    <id>345</id>
+    <revision>
+      <id>713</id>
+      <timestamp>2026-06-10T17:02:39Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Stub|комментарий=Необходимо добавить скриншоты типовых ошибок из клиента игры.}}  &lt;translate&gt; &lt;!--T:1--&gt; = FAQ по подключению к Semicraft =  В данном разделе собраны решения наиболее распространенных проблем, с которыми игроки сталкиваются при попытке зайти на се...»</comment>
+      <origin>713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2603" sha1="heugu0mfi1uq7mofyfd0qoc61rw4un9" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Необходимо добавить скриншоты типовых ошибок из клиента игры.}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= FAQ по подключению к Semicraft =
+
+В данном разделе собраны решения наиболее распространенных проблем, с которыми игроки сталкиваются при попытке зайти на сервер.
+
+&lt;!--T:2--&gt;
+== Проблемы и решения ==
+
+=== Ошибка: «Сервер недоступен» (Can't connect to server) ===
+&lt;!--T:3--&gt;
+* '''Причина:''' На стороне сервера ведутся технические работы, обновление конфигурации или плагинов.
+* '''Что делать:''' Подождите завершения работ. Актуальную информацию о состоянии хоста и примерном времени запуска можно узнать в нашем [https://discord.gg/9E3x6EbcA8 Discord-канале].
+
+=== Ошибка: «Вы не в белом списке» (You are not whitelisted) ===
+&lt;!--T:4--&gt;
+* '''Причина:''' Ваш игровой никнейм отсутствует в списке разрешенных игроков.
+* '''Что делать:''' Напишите письмо на электронную почту проекта: [mailto:mahazeviet@gmail.com mahazeviet@gmail.com]. В тексте письма обязательно укажите ваш точный игровой никнейм и отправьте запрос на добавление в вайтлист.
+
+=== Ошибка: «Вы не в белом списке», но я уже играл ранее и был добавлен ===
+&lt;!--T:5--&gt;
+* '''Причина:''' Если вы уже были одобрены, успешно играли на сервере, но внезапно получили это сообщение — это верный признак того, что на сервере прямо сейчас проводятся технические работы (например, восстановление резервных копий или перезапуск сервера авторизации).
+* '''Что делать:''' Повторно отправлять заявку на почту не нужно. Дождитесь окончания технических работ, статус которых отслеживается в Discord.
+&lt;/translate&gt;</text>
+      <sha1>heugu0mfi1uq7mofyfd0qoc61rw4un9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stars</title>
+    <ns>0</ns>
+    <id>354</id>
+    <revision>
+      <id>724</id>
+      <timestamp>2026-06-10T17:28:23Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Stub|комментарий=Черновик. Требуется задокументировать список предметов, которые сущность предлагает игрокам в качестве подкупа.}}  {{Сущность | название    = Stars (Звёзды) | изображение = Stars_placeholder.png | тип         = Фантом / Облако частиц | угроза      = Высока...»</comment>
+      <origin>724</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1938" sha1="8dishsmgbr1g2guwm9ggyrqwvq8ju0s" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Черновик. Требуется задокументировать список предметов, которые сущность предлагает игрокам в качестве подкупа.}}
+
+{{Сущность
+| название    = Stars (Звёзды)
+| изображение = Stars_placeholder.png
+| тип         = Фантом / Облако частиц
+| угроза      = Высокая
+| поведение   = Обманчивое, подкупающее
+| особенности = Склоняет к ритуалам, способствует заражению Вирусом
+}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+'''Stars''' (Звёзды) — сомнительная фантомная сущность, представляющая серьезную угрозу для игроков на сервере Semicraft.
+
+&lt;!--T:2--&gt;
+== Описание и поведение ==
+
+Аномалия не имеет твердого тела и визуально проявляется как неестественное, локализованное облако парящих частиц.
+* '''Подкуп:''' Сущность способна бесконфликтно приближаться к игрокам и предлагать им ценные внутриигровые ресурсы, пытаясь завоевать их доверие.
+* '''Опасность:''' Конечной целью сущности является манипуляция. Она настойчиво призывает игроков к проведению таинственных ритуалов. Практика показала, что все подобные ритуалы заканчиваются гибелью участников, катастрофическими сбоями или массовым заражением Вирусом.
+&lt;/translate&gt;</text>
+      <sha1>8dishsmgbr1g2guwm9ggyrqwvq8ju0s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Аномалии</title>
+    <ns>0</ns>
+    <id>349</id>
+    <revision>
+      <id>722</id>
+      <parentid>718</parentid>
+      <timestamp>2026-06-10T17:27:24Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <origin>722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4916" sha1="3x6co14aytk0w3po2gleuxfav4pral9" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Статья находится в активной разработке. Пожалуйста, дополняйте список зафиксированных сбоев и аномалий по мере их обнаружения.}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= Аномалии сервера Semicraft =
+
+Мир Semicraft подвержен различным системным ошибкам, сбоям в генерации и необъяснимым явлениям, которые в сообществе исследователей классифицируются как '''аномалии'''. Многие из этих багов имитируют технические сбои ранних альфа-версий игры, но некоторые имеют прямую связь с лором и историей проекта.
+
+&lt;!--T:2--&gt;
+== Список зафиксированных аномалий ==
+
+=== [[Special:MyLanguage/Вирус|Вирус (The Virus)]] ===
+&lt;!--T:3--&gt;
+* '''Описание:''' Специфическое заболевание, распространяющееся среди игроков сервера. Заражение развивается в несколько стадий.
+* '''Особенности:''' Последствия полной зрелости вируса в данный момент неизвестны. Предполагается, что защита от заражения возможна при нахождении рядом с тыквами или при использовании вырезанной тыквы в качестве шлема.
+
+=== Искажения генерации ландшафта ===
+&lt;!--T:4--&gt;
+* '''Описание:''' Технические ошибки генерации мира, характерные для старых версий игры.
+* '''Особенности:''' Проявляются в виде аномальных срезов чанков, парящих в воздухе островов и нетипичного распределения блоков. Подобные сбои в генерации ранее приводили к полному закрытию сервера в эпохи 2015 и 2020 годов.
+
+=== Активность ИИ (C.Y.) ===
+&lt;!--T:5--&gt;
+* '''Описание:''' Несанкционированные изменения в системных файлах проекта и появление скрытых логов.
+* '''Особенности:''' Аномалия связана с деятельностью искусственного интеллекта по имени C.Y., который, помимо прочего, контролирует скрытый терминал на официальном сайте проекта.
+&lt;/translate&gt;
+
+
+=== [[Special:MyLanguage/Armorstand|Ожившая стойка для брони (Armor Stand)]] ===
+&lt;!--T:1--&gt;
+* '''Описание:''' Аномальная сущность, принимающая вид стандартной стойки для брони, способная к самостоятельному перемещению.
+* '''Особенности:''' Не проявляет прямой агрессии. Способна помогать игрокам и общается посредством размещения табличек с текстом.
+
+=== [[Special:MyLanguage/Stars|Stars (Звёзды)]] ===
+&lt;!--T:2--&gt;
+* '''Описание:''' Опасная призрачная сущность, проявляющаяся в виде неестественного облака летающих частиц.
+* '''Особенности:''' Обладает обманчивым поведением. Пытается войти в доверие к игрокам, подкупая их ценными вещами, однако её конечная цель враждебна. Сущность склоняет игроков к проведению опасных ритуалов, которые приводят к распространению Вируса.
+
+=== [[Special:MyLanguage/Контроль игрока|Контроль игрока (Mind Control)]] ===
+&lt;!--T:3--&gt;
+* '''Описание:''' Феномен потери контроля над собственным персонажем.
+* '''Особенности:''' Игрок может временно или полностью потерять управление под воздействием внешних аномальных сил. Персонаж может совершать неосознанные действия, перемещаться в пространстве или наносить вред другим исследователям вопреки воле самого игрока.</text>
+      <sha1>3x6co14aytk0w3po2gleuxfav4pral9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Вирус</title>
+    <ns>0</ns>
+    <id>348</id>
+    <revision>
+      <id>717</id>
+      <timestamp>2026-06-10T17:18:51Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Stub|комментарий=Требуется практическое подтверждение теории с тыквами на сервере.}}  &lt;translate&gt; &lt;!--T:1--&gt; = Вирус (The Virus) =  '''Вирус''' — специфическое аномальное заболевание (сбои/болезнь), распространяющееся среди игроков на сервере Semicraft.  &lt;!--T:2--&gt; == Описани...»</comment>
+      <origin>717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1847" sha1="jylu9ncn3qc6jxv9ptehmtr2dfnqxg7" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Требуется практическое подтверждение теории с тыквами на сервере.}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= Вирус (The Virus) =
+
+'''Вирус''' — специфическое аномальное заболевание (сбои/болезнь), распространяющееся среди игроков на сервере Semicraft.
+
+&lt;!--T:2--&gt;
+== Описание аномалии ==
+
+Заболевание протекает в несколько стадий. На данный момент неизвестно, к каким именно последствиям приводит финальная стадия развития вируса, когда болезнь достигает полной зрелости.
+
+&lt;!--T:3--&gt;
+== Способы защиты ==
+
+Согласно внутриигровым подсказкам и наблюдениям исследователей:
+* Распространение вируса и заражение можно предотвратить, если находиться рядом с тыквами или носить вырезанную тыкву на голове в качестве шлема (информация требует практического подтверждения).
+* На одной из локаций была обнаружена табличка на вьетнамском языке: `BÍ NGÔ SẼ BẢO VỆ BẠN`, что переводится как: *«Пребывание рядом с тыквой защитит вас!»*.
+&lt;/translate&gt;
+
+[[Файл:Semicraft virus pumpkin sign.png|мини|центр|400px|&lt;translate&gt;&lt;!--T:4--&gt; Табличка-предупреждение с упоминанием защиты тыквами&lt;/translate&gt;]]</text>
+      <sha1>jylu9ncn3qc6jxv9ptehmtr2dfnqxg7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Заглавная страница</title>
+    <ns>0</ns>
+    <id>323</id>
+    <revision>
+      <id>731</id>
+      <parentid>728</parentid>
+      <timestamp>2026-06-10T17:45:16Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Отметить эту версию для перевода</comment>
+      <origin>731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6263" sha1="1s9b730b822gw4welzflqoy2y3ju5q8" xml:space="preserve">&lt;languages/&gt;
+[[Файл:Скриншот сайта semicraft.png|мини|правой|&lt;translate&gt;&lt;!--T:1--&gt; '''Интерфейс официального сайта semicraft.su'''&lt;/translate&gt;]]
+
+&lt;translate&gt;
+&lt;!--T:2--&gt;
+= Semicraft =
+'''Semicraft''' — публичный исследовательский сервер с элементами ARG и мистики, визуально и структурно имитирующий работу ранних альфа-версий игры. Проект сочетает в себе атмосферу старого Minecraft и современные технические аномалии, природу которых игрокам предстоит изучить.
+
+&lt;!--T:3--&gt;
+== Подключение к серверу ==
+{| class="wikitable" style="width: 100%; max-width: 800px; background-color: #f8f9fa;"
+! style="width: 30%; text-align: left;" | Параметр
+! style="text-align: left;" | Данные для входа
+|-
+| '''IP-адрес:'''
+| &lt;code&gt;45.157.232.7:21015&lt;/code&gt;
+|-
+| '''Версия:'''
+| 1.21.1 (с элементами стилизации под Alpha)
+|-
+| '''Доступ:'''
+| На сервере включен '''белый список (Whitelist)'''. Чтобы получить доступ, необходимо отправить заявку на электронную почту проекта: [mailto:mahazeviet@gmail.com mahazeviet@gmail.com]
+|}
+
+&lt;!--T:4--&gt;
+== Официальные ресурсы ==
+* '''Официальный сайт проекта:''' http://semicraft.su
+* '''Discord-сервер сообщества:''' https://discord.gg/9E3x6EbcA8
+* '''Часто задаваемые вопросы:''' [[Special:MyLanguage/FAQ|FAQ по подключению и игре]]
+&lt;/translate&gt;
+
+[[Файл:Спавн semicraft.png|мини|левой|400px|&lt;translate&gt;&lt;!--T:5--&gt; '''Текущий спавн сервера'''&lt;/translate&gt;]]
+
+&lt;translate&gt;
+&lt;!--T:6--&gt;
+= База знаний =
+Ниже представлен структурированный каталог информации, собранной и задокументированной игроками в процессе исследования мира Semicraft.
+
+&lt;!--T:19--&gt;
+{| style="width: 100%; margin-top: 10px; border-spacing: 10px; border-collapse: separate;"
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== Аномалии и Явления === &lt;!--T:7--&gt;
+
+&lt;!--T:8--&gt;
+Документирование технических сбоев, странностей генерации и необъяснимых феноменов, имитирующих или воссоздающих ошибки альфа-версий.
+
+&lt;!--T:9--&gt;
+* [[Special:MyLanguage/Аномалии|'''Реестр аномалий''']] — полный список зафиксированных отклонений в мире.
+* [[Special:MyLanguage/Искажения генерации|Искажения генерации]] — отчеты об ошибках ландшафта и неопознанных структурах.
+* [[Special:MyLanguage/Системные сбои|Системные сбои]] — анализ странного поведения игрового клиента и сервера.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== География и Локации === &lt;!--T:10--&gt;
+
+&lt;!--T:11--&gt;
+Путеводитель по ключевым местам исследования. Каталог как безопасных зон, так и точек, где чаще всего фиксируется паранормальная активность.
+
+&lt;!--T:12--&gt;
+* [[Special:MyLanguage/Локации|'''Список локаций''']] — перечень всех известных построек и природных зон.
+* [[Special:MyLanguage/Спавн|Спавн]] — история изменения и текущее состояние начальной точки мира.
+* [[Special:MyLanguage/Заброшенные структуры|Заброшенные структуры]] — отчеты об исследовании найденных строений неизвестного происхождения.
+|-
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== История и События === &lt;!--T:13--&gt;
+
+&lt;!--T:14--&gt;
+Хронологические записи событий, открытий и изменений, происходящих на сервере с момента его запуска.
+
+&lt;!--T:15--&gt;
+* [[Special:MyLanguage/Хронология|'''Хронология событий''']] — таймлайн ключевых дат и происшествий.
+* [[Special:MyLanguage/Факты и находки|Факты и находки]] — подтвержденные сведения и зацепки, собранные игроками.
+* [[Special:MyLanguage/Архив логов|Архив логов]] — расшифрованные текстовые материалы и системные сообщения.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== Справка и Инструкции === &lt;!--T:16--&gt;
+
+&lt;!--T:17--&gt;
+Технические руководства и справочные материалы, облегчающие погружение в игровой процесс и процесс проведения расследований.
+
+&lt;!--T:18--&gt;
+* [[Special:MyLanguage/Правила|Правила поведения]] — регламент общения на сервере и в Discord.
+* [[Special:MyLanguage/Полезные_ресурсы_для_декодирования|Инструменты исследования]] — советы по дешифровке, анализу файлов и поиску скрытой информации.
+|}
+
+&lt;/translate&gt;
+{{Навигация}}
+[[Категория:Заглавные страницы]]</text>
+      <sha1>1s9b730b822gw4welzflqoy2y3ju5q8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Заглавная страница/en</title>
+    <ns>0</ns>
+    <id>381</id>
+    <revision>
+      <id>774</id>
+      <parentid>754</parentid>
+      <timestamp>2026-06-10T17:55:22Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Импортирована новая версия из внешнего источника</comment>
+      <origin>774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4395" sha1="sguicreyu5sbo8wxr8xbyvjoi73aoku" xml:space="preserve">&lt;languages/&gt;
+[[Файл:Скриншот сайта semicraft.png|мини|правой|'''Official website interface of semicraft.su''']]
+
+= Semicraft =
+'''Semicraft''' is a public research server with elements of ARG and mystery, visually and structurally mimicking the operation of early Alpha versions of the game. The project combines the atmosphere of old Minecraft with modern technical anomalies, the nature of which players have to investigate.
+
+== Connecting to the Server ==
+{| class="wikitable" style="width: 100%; max-width: 800px; background-color: #f8f9fa;"
+! style="width: 30%; text-align: left;" | Parameter
+! style="text-align: left;" | Login Details
+|-
+| '''IP Address:'''
+| &lt;code&gt;45.157.232.7:21015&lt;/code&gt;
+|-
+| '''Version:'''
+| 1.21.1 (with Alpha stylization elements)
+|-
+| '''Access:'''
+| The server has a '''whitelist (Whitelist)''' enabled. To get access, you must send a request to the project's email: [mailto:mahazeviet@gmail.com mahazeviet@gmail.com]
+|}
+
+== Official Resources ==
+* '''Official website of the project:''' http://semicraft.su
+* '''Community Discord server:''' https://discord.gg/9E3x6EbcA8
+* '''Frequently Asked Questions:''' [[Special:MyLanguage/FAQ|FAQ on connection and gameplay]]
+
+[[Файл:Спавн semicraft.png|мини|левой|400px|'''Current server spawn''']]
+
+= Knowledge Base =
+Below is a structured catalog of information collected and documented by players during the research of the Semicraft world.
+
+{| style="width: 100%; margin-top: 10px; border-spacing: 10px; border-collapse: separate;"
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+&lt;span id="Аномалии_и_Явления"&gt;&lt;/span&gt;
+=== Anomalies and Phenomena ===
+
+Documentation of technical glitches, generation anomalies, and unexplained phenomena that mimic or recreate Alpha version errors.
+
+* [[Special:MyLanguage/Аномалии|'''Anomaly Registry''']] — a complete list of recorded deviations in the world.
+* [[Special:MyLanguage/Искажения генерации|Generation Glitches]] — reports of terrain errors and unidentified structures.
+* [[Special:MyLanguage/Системные сбои|System Glitches]] — analysis of strange behavior of the game client and server.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+&lt;span id="География_и_Локации"&gt;&lt;/span&gt;
+=== Geography and Locations ===
+
+A guide to key research locations. A catalog of both safe zones and points where paranormal activity is most frequently recorded.
+
+* [[Special:MyLanguage/Локации|'''Location List''']] — a list of all known buildings and natural areas.
+* [[Special:MyLanguage/Спавн|Spawn]] — history of changes and the current state of the starting point of the world.
+* [[Special:MyLanguage/Заброшенные структуры|Abandoned Structures]] — reports on the investigation of found buildings of unknown origin.
+|-
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+&lt;span id="История_и_События"&gt;&lt;/span&gt;
+=== History and Events ===
+
+Chronological records of events, discoveries, and changes occurring on the server since its launch.
+
+* [[Special:MyLanguage/Хронология|'''Chronology of Events''']] — timeline of key dates and incidents.
+* [[Special:MyLanguage/Факты и находки|Facts and Discoveries]] — confirmed information and clues collected by players.
+* [[Special:MyLanguage/Архив логов|Log Archive]] — decrypted text materials and system messages.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+&lt;span id="Справка_и_Инструкции"&gt;&lt;/span&gt;
+=== Help and Instructions ===
+
+Technical guides and reference materials that facilitate immersion into the gameplay and the process of conducting investigations.
+
+* [[Special:MyLanguage/Правила|Rules of Conduct]] — regulations of communication on the server and in Discord.
+* [[Special:MyLanguage/Полезные_ресурсы_для_декодирования|Research Tools]] — tips on decryption, file analysis, and searching for hidden information.
+|}
+
+{{Навигация}}
+[[Категория:Заглавные страницы]]</text>
+      <sha1>sguicreyu5sbo8wxr8xbyvjoi73aoku</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Заглавная страница/ru</title>
+    <ns>0</ns>
+    <id>379</id>
+    <revision>
+      <id>752</id>
+      <timestamp>2026-06-10T17:45:44Z</timestamp>
+      <contributor>
+        <username>FuzzyBot</username>
+        <id>34</id>
+      </contributor>
+      <comment>Обновление для соответствия новой версии исходной страницы.</comment>
+      <origin>752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5948" sha1="8k4gw3nh2bac3f9glynoxrnpdmwsfmh" xml:space="preserve">&lt;languages/&gt;
+[[Файл:Скриншот сайта semicraft.png|мини|правой|'''Интерфейс официального сайта semicraft.su''']]
+
+= Semicraft =
+'''Semicraft''' — публичный исследовательский сервер с элементами ARG и мистики, визуально и структурно имитирующий работу ранних альфа-версий игры. Проект сочетает в себе атмосферу старого Minecraft и современные технические аномалии, природу которых игрокам предстоит изучить.
+
+== Подключение к серверу ==
+{| class="wikitable" style="width: 100%; max-width: 800px; background-color: #f8f9fa;"
+! style="width: 30%; text-align: left;" | Параметр
+! style="text-align: left;" | Данные для входа
+|-
+| '''IP-адрес:'''
+| &lt;code&gt;45.157.232.7:21015&lt;/code&gt;
+|-
+| '''Версия:'''
+| 1.21.1 (с элементами стилизации под Alpha)
+|-
+| '''Доступ:'''
+| На сервере включен '''белый список (Whitelist)'''. Чтобы получить доступ, необходимо отправить заявку на электронную почту проекта: [mailto:mahazeviet@gmail.com mahazeviet@gmail.com]
+|}
+
+== Официальные ресурсы ==
+* '''Официальный сайт проекта:''' http://semicraft.su
+* '''Discord-сервер сообщества:''' https://discord.gg/9E3x6EbcA8
+* '''Часто задаваемые вопросы:''' [[Special:MyLanguage/FAQ|FAQ по подключению и игре]]
+
+[[Файл:Спавн semicraft.png|мини|левой|400px|'''Текущий спавн сервера''']]
+
+= База знаний =
+Ниже представлен структурированный каталог информации, собранной и задокументированной игроками в процессе исследования мира Semicraft.
+
+{| style="width: 100%; margin-top: 10px; border-spacing: 10px; border-collapse: separate;"
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== Аномалии и Явления ===
+
+Документирование технических сбоев, странностей генерации и необъяснимых феноменов, имитирующих или воссоздающих ошибки альфа-версий.
+
+* [[Special:MyLanguage/Аномалии|'''Реестр аномалий''']] — полный список зафиксированных отклонений в мире.
+* [[Special:MyLanguage/Искажения генерации|Искажения генерации]] — отчеты об ошибках ландшафта и неопознанных структурах.
+* [[Special:MyLanguage/Системные сбои|Системные сбои]] — анализ странного поведения игрового клиента и сервера.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== География и Локации ===
+
+Путеводитель по ключевым местам исследования. Каталог как безопасных зон, так и точек, где чаще всего фиксируется паранормальная активность.
+
+* [[Special:MyLanguage/Локации|'''Список локаций''']] — перечень всех известных построек и природных зон.
+* [[Special:MyLanguage/Спавн|Спавн]] — история изменения и текущее состояние начальной точки мира.
+* [[Special:MyLanguage/Заброшенные структуры|Заброшенные структуры]] — отчеты об исследовании найденных строений неизвестного происхождения.
+|-
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== История и События ===
+
+Хронологические записи событий, открытий и изменений, происходящих на сервере с момента его запуска.
+
+* [[Special:MyLanguage/Хронология|'''Хронология событий''']] — таймлайн ключевых дат и происшествий.
+* [[Special:MyLanguage/Факты и находки|Факты и находки]] — подтвержденные сведения и зацепки, собранные игроками.
+* [[Special:MyLanguage/Архив логов|Архив логов]] — расшифрованные текстовые материалы и системные сообщения.
+| style="width: 50%; vertical-align: top; border: 1px solid #a2a9b1; background-color: #f8f9fa; padding: 15px;" |
+
+=== Справка и Инструкции ===
+
+Технические руководства и справочные материалы, облегчающие погружение в игровой процесс и процесс проведения расследований.
+
+* [[Special:MyLanguage/Правила|Правила поведения]] — регламент общения на сервере и в Discord.
+* [[Special:MyLanguage/Полезные_ресурсы_для_декодирования|Инструменты исследования]] — советы по дешифровке, анализу файлов и поиску скрытой информации.
+|}
+
+{{Навигация}}
+[[Категория:Заглавные страницы]]</text>
+      <sha1>8k4gw3nh2bac3f9glynoxrnpdmwsfmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Игроки</title>
+    <ns>0</ns>
+    <id>355</id>
+    <revision>
+      <id>725</id>
+      <timestamp>2026-06-10T17:28:59Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Stub|комментарий=Список составлен на основе официального глоссария архива Semicraft. Дополняйте карточки новыми лорными деталями по мере расшифровки терминала.}}  &lt;translate&gt; &lt;!--T:1--&gt; = База данных игроков Semicraft =  Архивные записи содержат сведения о ключевых...»</comment>
+      <origin>725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5079" sha1="roby4oorphz2vmfhoy8v3fcsszcd85w" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Список составлен на основе официального глоссария архива Semicraft. Дополняйте карточки новыми лорными деталями по мере расшифровки терминала.}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= База данных игроков Semicraft =
+
+Архивные записи содержат сведения о ключевых создателях, разработчиках и исследователях мира Semicraft разных временных эпох (2015, 2020 и 2026 годов).
+&lt;/translate&gt;
+
+== Эпоха 2026 года ==
+
+=== Bobbies1 ===
+{{Игрок
+| имя              = Bobbies1
+| изображение      = Bobbies1_skin.png
+| никнейм          = Bobbies1
+| статус           = Активен
+| роль             = Исследователь / Администратор архива
+| первое_появление = 2026
+| группировка      = Semicraft Archive Drive
+}}
+&lt;translate&gt;
+&lt;!--T:2--&gt;
+* '''Описание:''' Активный игрок современной эпохи Semicraft (2026 год).
+* '''Роль:''' Является главным хранителем и смотрителем архивного накопителя данных по проекту (Semicraft Archive Drive). Ведет собственный YouTube-канал, где документирует аномальные события на сервере.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;
+
+== Эпоха 2015 года (Первопроходцы) ==
+
+=== HanoiHaze ===
+{{Игрок
+| имя              = HanoiHaze
+| изображение      = Steve.png
+| никнейм          = HanoiHaze
+| статус           = Жив
+| роль             = Создатель / Геймраннер
+| первое_появление = 2015
+}}
+&lt;translate&gt;
+&lt;!--T:3--&gt;
+* '''Описание:''' Основатель сервера и главный геймраннер (Gamerunner) ARG Semicraft.
+* '''Роль:''' Родился и вырос во Вьетнаме. В лоре позиционируется как заботливый и любящий создатель. Очень любит кошек.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;
+
+=== Jamer_77 ===
+{{Игрок
+| имя              = Jamer_77
+| изображение      = Jamer77_skin.png
+| никнейм          = Jamer_77
+| статус           = Неактивен
+| первое_появление = 2015
+}}
+&lt;translate&gt;
+&lt;!--T:4--&gt;
+* '''Описание:''' Один из первых игроков сервера эпохи 2015 года.
+* '''Связи:''' Близкий друг игроков SlimeyPretty и Voidwalker.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;
+
+=== SlimeyPretty ===
+{{Игрок
+| имя              = SlimeyPretty
+| изображение      = Slimeypretty_skin.png
+| никнейм          = SlimeyPretty
+| статус           = Неактивен
+| первое_появление = 2015
+}}
+&lt;translate&gt;
+&lt;!--T:5--&gt;
+* '''Описание:''' Игрок оригинальной эпохи 2015 года.
+* '''Роль в лоре:''' В архивных документах характеризуется как изначально хороший человек, который, тем не менее, начал совершать ужасные вещи, проводя опасные мистические ритуалы. Его деятельность вызывает резкое недовольство со стороны искусственного интеллекта C.Y.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;
+
+=== Voidwalker ===
+{{Игрок
+| имя              = Voidwalker
+| изображение      = Voidwalker_skin.png
+| никнейм          = Voidwalker
+| статус           = Пропал без вести
+| первое_появление = 2015
+}}
+&lt;translate&gt;
+&lt;!--T:6--&gt;
+* '''Описание:''' Игрок эпохи 2015 года, друг Jamer_77 и SlimeyPretty.
+* '''Роль в лоре:''' Внезапно и бесследно исчез прямо посреди сражения с Jamer_77. На текущий момент запись о его персонаже в системном терминале C.Y. отсутствует или не расшифрована.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;
+
+=== Nyrashine ===
+{{Игрок
+| имя              = Nyrashine
+| изображение      = Steve.png
+| никнейм          = Nyrashine
+| статус           = Мертв (по лору)
+| первое_появление = неизвестно
+}}
+&lt;translate&gt;
+&lt;!--T:7--&gt;
+* '''Описание:''' Архивный персонаж.
+* '''Роль:''' Известен как один из создателей официального текстур-пака (ресурс-пака) сервера Semicraft.
+&lt;/translate&gt;
+
+&lt;div style="clear: both;"&gt;&lt;/div&gt;</text>
+      <sha1>roby4oorphz2vmfhoy8v3fcsszcd85w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Полезные ресурсы для декодирования</title>
+    <ns>0</ns>
+    <id>350</id>
+    <revision>
+      <id>719</id>
+      <timestamp>2026-06-10T17:21:31Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «Универсальный декодер текстовых шифровок: https://kotazzz.github.io/CyberSwissKnife  === Таблица инструментов === {| class="wikitable" !Пример !Инструмент (ссылка) !Демо |- |В аудио слышен «писк», затем шум |https://sstv-decoder.mathieurenaud.fr/ |[[Файл:Спектограма SSTV.png|безрамки|312x312пкс]] |- |Нужно понять,...»</comment>
+      <origin>719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3239" sha1="aao8zd1otw6sx8s03ecxhgekybxeqb3" xml:space="preserve">Универсальный декодер текстовых шифровок: https://kotazzz.github.io/CyberSwissKnife
+
+=== Таблица инструментов ===
+{| class="wikitable"
+!Пример
+!Инструмент (ссылка)
+!Демо
+|-
+|В аудио слышен «писк», затем шум
+|https://sstv-decoder.mathieurenaud.fr/
+|[[Файл:Спектограма SSTV.png|безрамки|312x312пкс]]
+|-
+|Нужно понять, есть ли скрытые частоты в аудио
+|https://academo.org/demos/spectrum-analyzer/
+|[[Файл:Скрытый текст.png|безрамки]]
+|-
+|Набор из 0 и 1
+|https://cryptii.com/pipes/binary-decoder
+|
+|-
+|Строка из HEX-символов (01-9A-Z или 01-9a-z)
+|https://cryptii.com/pipes/hex-decoder
+|
+|-
+|Непонятная строка с = в конце
+|https://www.base64decode.org/
+|
+|-
+|Строка из A–Z и 2–7
+|https://emn178.github.io/online-tools/base32_decode.html
+|
+|-
+|Смешанные символы ASCII
+|https://www.dcode.fr/rot-47-cipher
+|
+|-
+|Точки и тире (звук, символы)
+|https://morsecode.world/international/translator.html
+|
+|-
+|11 символов, похожих на ID
+|[https://www.youtube.com/watch?v=1234567890x https://www.youtube.com/watch?v='''&lt;u&gt;1234567890x&lt;/u&gt;''']
+|
+|}
+----
+
+=== Советы по обработке медиа и анализу ===
+'''Штрихкоды / QR'''
+
+* Убирать лишние элементы с изображения
+* Кадрировать строго по коду
+* Повышать контраст, убирать шум
+
+'''Изображения'''
+
+* Осветление и повышение контраста
+* Проверка инверсии цветов
+* Просмотр отдельных цветовых каналов (RGB)
+
+'''Звук'''
+
+* Реверс аудио
+* Ускорение и замедление
+* Повышение громкости
+* Спектрограмма
+* Рекомендуемый инструмент: Audacity
+
+'''Текст'''
+
+* Реверс строки
+* Проверка на акростих
+* Анализ выделенных, искажённых, «лишних» букв
+* Проверка регистра и повторяющихся символов
+
+'''Ссылки и идентификаторы'''
+
+* 11 символов — с высокой вероятностью YouTube ID
+* Стандартный Imgur: &lt;code&gt;&lt;nowiki&gt;https://imgur.com/a/aaabbbc&lt;/nowiki&gt;&lt;/code&gt;
+* Стандартный Pastebin: &lt;code&gt;&lt;nowiki&gt;https://pastebin.com/aaabbbc&lt;/nowiki&gt;&lt;/code&gt;
+
+'''YouTube'''
+
+* Проверять:
+** название видео
+** описание
+** комментарии
+** субтитры
+** посты канала
+** плейлисты
+** описание канала
+
+----
+
+=== Опознание типов файлов ===
+
+* &lt;code&gt;&lt;!doctypehtml&gt;&lt;/code&gt; в начале файла — переименовать в &lt;code&gt;.html&lt;/code&gt;, открыть в браузере
+* &lt;code&gt;PK&lt;/code&gt; при открытии в блокноте — ZIP-архив
+
+
+{{Навигация}}
+[[Категория:Информация и материал]]</text>
+      <sha1>aao8zd1otw6sx8s03ecxhgekybxeqb3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Правила</title>
+    <ns>0</ns>
+    <id>358</id>
+    <revision>
+      <id>730</id>
+      <timestamp>2026-06-10T17:43:58Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <comment>Новая страница: «&lt;languages/&gt; {{Служебная страница}}  &lt;translate&gt; &lt;!--T:1--&gt; = Правила проекта Semicraft =  Настоящий свод правил регулирует поведение участников на игровом сервере Minecraft и в официальном сообществе Discord. Соблюдение правил обязательно для сохранения комфортной, безопасной и к...»</comment>
+      <origin>730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5075" sha1="brwx9ujw8jk2wk3m04p2kp3uoe47vln" xml:space="preserve">&lt;languages/&gt;
+{{Служебная страница}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= Правила проекта Semicraft =
+
+Настоящий свод правил регулирует поведение участников на игровом сервере Minecraft и в официальном сообществе Discord. Соблюдение правил обязательно для сохранения комфортной, безопасной и конструктивной исследовательской атмосферы.
+
+&lt;!--T:2--&gt;
+== Правила игрового сервера (Minecraft) ==
+
+Данные правила полностью соответствуют официальному информационному стенду, установленному на спавне сервера:
+
+# '''Не ломайте чужие постройки и не воруйте чужие вещи''' (Don't destroy other people's buildings or steal from them). Гриферство и кражи на сервере строго запрещены.
+# '''Не будьте грубы по отношению к другим игрокам''' (Don't be rude to other players). Проявляйте взаимное уважение ко всем участникам исследования.
+# '''Не убивайте других игроков''' (Don't kill other players). Сервер ориентирован на совместное прохождение и кооперацию; несанкционированное PvP запрещено.
+# '''Использование читов (включая X-Ray и Killaura) запрещено''' (X-ray and killaura are not allowed). Любые модификации, дающие нечестное преимущество, повлекут за собой исключение из белого списка.
+# '''Использование и злоупотребление багами запрещено''' (Bug abuse is not allowed). При обнаружении уязвимостей или критических ошибок в работе сервера незамедлительно сообщите администрации.
+# '''Присоединяйтесь к армии котиков''' (Join the army of cats). Традиционное лорное предписание от создателя сервера HanoiHaze, любящего кошек.
+
+&lt;!--T:3--&gt;
+== Правила сообщества Discord ==
+
+Для поддержания порядка на официальном Discord-сервере действуют следующие стандартные правила общения:
+
+* '''1. Взаимное уважение и вежливость:''' Запрещены прямые оскорбления, угрозы, разжигание конфликтов, дискриминация и токсичное поведение в любых текстовых и голосовых каналах.
+* '''2. Чистота каналов (Запрет спама/флуда):''' Избегайте многократного дублирования сообщений, чрезмерного использования CAPS LOCK и отправки бессмысленных символов. Размещайте медиафайлы и ссылки строго в соответствующих разделах.
+* '''3. Разделение обсуждений (Оффтоп):''' Обсуждение ARG-загадок, логов терминала и лора сервера должно вестись строго в отведенных для этого исследовательских каналах. Не засоряйте информационные каналы посторонними беседами.
+* '''4. Запрет несанкционированной рекламы:''' Запрещено распространение ссылок на другие игровые проекты, сторонние Discord-серверы или коммерческие ресурсы без предварительного согласования с администрацией.
+* '''5. Соблюдение Условий использования Discord:''' Все пользователи обязаны придерживаться официальных Условий использования (ToS) и Правил сообщества самой платформы Discord.
+
+&lt;!--T:4--&gt;
+== Меры наказания ==
+За нарушение правил игрового сервера или Discord-сервера администрация оставляет за собой право применять дисциплинарные меры на свое усмотрение — от устного предупреждения до временной блокировки или перманентного удаления игрока из белого списка (бан).
+&lt;/translate&gt;</text>
+      <sha1>brwx9ujw8jk2wk3m04p2kp3uoe47vln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Сайт Semicraft</title>
+    <ns>0</ns>
+    <id>347</id>
+    <revision>
+      <id>716</id>
+      <parentid>715</parentid>
+      <timestamp>2026-06-10T17:17:36Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <origin>716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2937" sha1="7h0rqbynzahsn9lbzb2f785gnkxho7r" xml:space="preserve">&lt;languages/&gt;
+{{Stub|комментарий=Необходимо дополнять таблицу новыми паролями по мере их обнаружения в процессе разгадки ARG.}}
+
+&lt;translate&gt;
+&lt;!--T:1--&gt;
+= Сайт Semicraft =
+
+'''[http://semicraft.su semicraft.su]''' — официальный веб-ресурс проекта Semicraft.
+
+&lt;!--T:2--&gt;
+== Основная информация ==
+
+На главной странице сайта опубликована базовая информация по подключению к серверу, а также указан контактный адрес электронной почты для подачи заявок на добавление в белый список (whitelist): [mailto:mahazeviet@gmail.com mahazeviet@gmail.com].
+
+&lt;!--T:3--&gt;
+== Секретный раздел (Терминал) ==
+
+При исследовании сайта был обнаружен скрытый интерактивный раздел — системный терминал. Чтобы получить к нему доступ, необходимо кликнуть по логотипу сайта на главной странице.
+
+Предположительно, данный терминал находится под управлением искусственного интеллекта по имени **C.Y.** В качестве паролей для доступа к записям обычно выступают никнеймы известных игроков сервера.
+
+&lt;!--T:4--&gt;
+=== Известные команды терминала ===
+
+В таблице ниже фиксируются обнаруженные пароли, результат их ввода и скриншоты экрана терминала.
+&lt;/translate&gt;
+
+{| class="wikitable" style="width: 100%; text-align: left;"
+|-
+! style="width: 25%;" | &lt;translate&gt;&lt;!--T:5--&gt; Вводимый пароль&lt;/translate&gt;
+! style="width: 50%;" | &lt;translate&gt;&lt;!--T:6--&gt; Выводимый текст (Лог терминала)&lt;/translate&gt;
+! style="width: 25%;" | &lt;translate&gt;&lt;!--T:7--&gt; Скриншот результата&lt;/translate&gt;
+|-
+| &lt;code&gt;Bobbies1&lt;/code&gt;
+| &lt;translate&gt;&lt;!--T:8--&gt; He runs his own YouTube channel where he records everything that happens on the server, and maintains a Google Drive with all the information about the server with his friends.&lt;/translate&gt;
+| [[Файл:Semicraft terminal Bobbies1.png|150px|thumb|none]]
+|-
+| &lt;code&gt;C.Y.&lt;/code&gt;
+| &lt;translate&gt;&lt;!--T:9--&gt; ''[Доступный пароль / Ожидает расшифровки]''&lt;/translate&gt;
+| [[Файл:Semicraft terminal placeholder.png|150px|thumb|none]]
+|}
+
+&lt;translate&gt;
+&lt;!--T:10--&gt;
+Если вы обнаружили новые работающие пароли на сайте, пожалуйста, внесите их в эту таблицу.
+&lt;/translate&gt;</text>
+      <sha1>7h0rqbynzahsn9lbzb2f785gnkxho7r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Шаблон:Stub</title>
+    <ns>10</ns>
+    <id>328</id>
+    <revision>
+      <id>680</id>
+      <parentid>679</parentid>
+      <timestamp>2026-06-10T16:58:37Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <minor/>
+      <comment>1 версия импортирована</comment>
+      <origin>679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2929" sha1="8rdmm27ebk1tpan2tife2ip2fbp3kyc" xml:space="preserve">&lt;includeonly&gt;&lt;div style="background: #ffcccc; border: 1px solid #cc0000; padding: 10px; margin-bottom: 10px; border-radius: 5px; display: flex; align-items: center; gap: 15px;"&gt;
+&lt;div style="font-size: 2em;"&gt;⚠️&lt;/div&gt;
+&lt;div&gt;
+'''Внимание!''' {{#switch: {{lc:{{{тип|}}}}}
+ | источники = В этой статье '''не хватает ссылок на источники'''. Информация может быть недостоверной.
+ | стиль = Эта статья требует '''исправления стиля'''. Пожалуйста, перепишите её в энциклопедическом формате.
+ | обновление = Информация в этой статье '''устарела'''. Требуется обновление данных под актуальную версию.
+ | перевод = Эта статья представляет собой '''плохой перевод'''. Требуется вычитка и исправление ошибок.
+ | викификация = Эту статью нужно '''викифицировать'''. Добавьте ссылки, списки и заголовки.
+ | #default = Эта статья '''неполная или требует доработки'''. Вы можете помочь проекту, дополнив её.
+}}
+{{#if:{{{комментарий|}}}|&lt;br&gt;''Примечание: {{{комментарий}}}''}}
+&lt;/div&gt;
+&lt;/div&gt;{{#switch: {{lc:{{{тип|}}}}}
+ | источники = [[Категория:Статьи без источников]]
+ | стиль = [[Категория:Статьи, требующие стилистической правки]]
+ | обновление = [[Категория:Устаревшие статьи]]
+ | перевод = [[Категория:Плохой перевод]]
+ | викификация = [[Категория:К викификации]]
+ | #default = [[Категория:Незавершенные статьи]]
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+&lt;!-- Разместите TemplateData здесь, чтобы VisualEditor видел их сразу --&gt;
+&lt;templatedata&gt;
+{
+	"params": {
+		"тип": {
+			"label": "Тип проблемы",
+			"description": "Выберите тип замечания к статье",
+			"example": "источники",
+			"type": "string",
+			"suggestedvalues": [
+				"источники",
+				"стиль",
+				"обновление",
+				"перевод",
+				"викификация"
+			],
+			"default": "обычный"
+		},
+		"комментарий": {
+			"label": "Доп. комментарий",
+			"description": "Уточнение, что именно нужно исправить",
+			"type": "string"
+		}
+	},
+	"description": "Шаблон для пометки статей, требующих улучшения (плашка)",
+	"format": "inline"
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>8rdmm27ebk1tpan2tife2ip2fbp3kyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Шаблон:Сущность</title>
+    <ns>10</ns>
+    <id>343</id>
+    <revision>
+      <id>710</id>
+      <parentid>709</parentid>
+      <timestamp>2026-06-10T16:58:38Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <minor/>
+      <comment>1 версия импортирована</comment>
+      <origin>709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3755" sha1="n3c0dusypbdogec72q2lmmq57yd7dse" xml:space="preserve">&lt;includeonly&gt;{| style="float: right; clear: right; width: 300px; margin-left: 1em; margin-bottom: 1em; background: #f9f9f9; border: 1px solid #aaaaaa; border-collapse: collapse; font-size: 90%; font-family: sans-serif;"
+! colspan="2" style="background-color: #8b0000; color: white; padding: 10px; text-align: center; font-size: 120%; font-weight: bold;" | {{{название|{{PAGENAME}}}}}
+|-
+| colspan="2" style="text-align: center; padding: 10px; background-color: #222;" | [[Файл:{{{изображение|CreepySteve.png}}}|280px|{{{название|{{PAGENAME}}}}}]]
+{{#if:{{{тип|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; width: 35%; text-align: left; padding: 5px;"&gt;Тип&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{тип}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{угроза|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Угроза&lt;/th&gt;
+  &lt;td style="padding: 5px; font-weight:bold; color: #8b0000;"&gt;{{{угроза}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{здоровье|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Здоровье&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{здоровье}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{урон|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Урон&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{урон}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{поведение|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Поведение&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{поведение}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{локация|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Место&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{локация}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{особенности|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #e6e6e6; text-align: left; padding: 5px;"&gt;Особенности&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{особенности}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+|}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Документация}}
+&lt;templatedata&gt;
+{
+  "description": "Шаблон для описания аномалий, мобов и сущностей",
+  "params": {
+    "название": {
+      "label": "Название",
+      "description": "Имя сущности",
+      "type": "string"
+    },
+    "изображение": {
+      "label": "Изображение",
+      "description": "Файл изображения",
+      "type": "wiki-file-name"
+    },
+    "тип": {
+      "label": "Тип",
+      "description": "Класс сущности",
+      "type": "string"
+    },
+    "угроза": {
+      "label": "Угроза",
+      "description": "Уровень опасности",
+      "type": "string"
+    },
+    "здоровье": {
+      "label": "Здоровье",
+      "description": "Количество HP",
+      "type": "string"
+    },
+    "урон": {
+      "label": "Урон",
+      "description": "Наносимый урон или эффект",
+      "type": "string"
+    },
+    "поведение": {
+      "label": "Поведение",
+      "description": "Тип поведения",
+      "type": "string"
+    },
+    "локация": {
+      "label": "Локация",
+      "description": "Где встречается",
+      "type": "string"
+    },
+    "особенности": {
+      "label": "Особенности",
+      "description": "Специальные свойства",
+      "type": "string"
+    }
+  }
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>n3c0dusypbdogec72q2lmmq57yd7dse</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Шаблон:Навигация</title>
+    <ns>10</ns>
+    <id>338</id>
+    <revision>
+      <id>729</id>
+      <parentid>700</parentid>
+      <timestamp>2026-06-10T17:39:43Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <origin>729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1850" sha1="c8ifaxkiizrr4qtffq8ho110xyuv5m8" xml:space="preserve">&lt;includeonly&gt;{| class="wikitable" style="width: 100%; margin-top: 20px; text-align: center; font-size: 90%; border-collapse: collapse;"
+! colspan="2" style="background-color: #1a1a1a; color: white; padding: 6px;" | [[Special:MyLanguage/Заглавная страница|&lt;span style="color: white; font-weight: bold;"&gt;Энциклопедия Semicraft&lt;/span&gt;]]
+|-
+| style="background-color: #e8e8e8; font-weight: bold; width: 20%;" | Основное
+| style="text-align: left; padding: 5px 10px;" | [[Special:MyLanguage/Заглавная страница|Заглавная страница]] • [[Special:MyLanguage/FAQ|FAQ по подключению]] • [[Special:MyLanguage/Сайт Semicraft|Официальный сайт]]
+|-
+| style="background-color: #f5f5f5; font-weight: bold;" | База данных
+| style="text-align: left; padding: 5px 10px;" | [[Special:MyLanguage/Игроки|База данных игроков]] • [[Special:MyLanguage/Полезные ресурсы для декодирования|Инструменты декодирования]]
+|-
+| style="background-color: #e8e8e8; font-weight: bold;" | Аномалии и Сущности
+| style="text-align: left; padding: 5px 10px;" | [[Special:MyLanguage/Аномалии|Реестр аномалий]] • [[Special:MyLanguage/Вирус|Вирус (The Virus)]] • [[Special:MyLanguage/Armorstand|Armor Stand]] • [[Special:MyLanguage/Stars|Stars (Звёзды)]]
+|}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Документация}}
+&lt;templatedata&gt;
+{
+	"params": {},
+	"description": "Навигационная таблица Semicraft, размещаемая внизу страниц. Содержит ссылки только на существующие и активные статьи проекта.",
+	"format": "block"
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>c8ifaxkiizrr4qtffq8ho110xyuv5m8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Шаблон:Игрок</title>
+    <ns>10</ns>
+    <id>332</id>
+    <revision>
+      <id>688</id>
+      <parentid>687</parentid>
+      <timestamp>2026-06-10T16:58:37Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <minor/>
+      <comment>1 версия импортирована</comment>
+      <origin>687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4917" sha1="jveihdq2q7hb3oy7rxxquxa2rap6iyz" xml:space="preserve">&lt;includeonly&gt;{| style="float: right; clear: right; width: 300px; margin-left: 1em; margin-bottom: 1em; background: #f9f9f9; border: 1px solid #aaaaaa; border-collapse: collapse; font-size: 90%; font-family: sans-serif;"
+! colspan="2" style="background-color: #333333; color: white; padding: 10px; text-align: center; font-size: 120%; font-weight: bold;" | {{{имя|{{PAGENAME}}}}}
+|-
+| colspan="2" style="text-align: center; padding: 10px; background-color: #222;" | [[Файл:{{{изображение|Steve.png}}}|200px|{{{имя|{{PAGENAME}}}}}]]
+{{#if:{{{никнейм|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; width: 35%; text-align: left; padding: 5px;"&gt;MC Никнейм&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{никнейм}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{дискорд|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Discord&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{дискорд}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{телеграм|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Telegram&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{телеграм}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{реальное_имя|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Реальное имя&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{реальное_имя}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{статус|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Статус&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{статус}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{роль|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Роль&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{роль}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{первое_появление|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Появление&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{первое_появление}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{дата_смерти|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Дата смерти&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{дата_смерти}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+{{#if:{{{группировка|}}}|
+&lt;tr style="border-bottom: 1px solid #ccc;"&gt;
+  &lt;th style="background-color: #dddddd; text-align: left; padding: 5px;"&gt;Группировка&lt;/th&gt;
+  &lt;td style="padding: 5px;"&gt;{{{группировка}}}&lt;/td&gt;
+&lt;/tr&gt;
+}}
+|}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Документация}}
+&lt;templatedata&gt;
+{
+	"description": "Карточка персонажа или игрока.",
+	"params": {
+		"имя": {
+			"label": "Имя заголовка",
+			"description": "Имя персонажа. Если пусто, берется название страницы.",
+			"type": "string",
+			"suggested": true
+		},
+		"изображение": {
+			"label": "Изображение",
+			"description": "Имя файла скина или арта (например: Skin.png). Стандарт: Steve.png",
+			"type": "wiki-file-name",
+			"default": "Steve.png"
+		},
+		"никнейм": {
+			"label": "Никнейм в MC",
+			"description": "Игровой никнейм.",
+			"type": "string",
+			"suggested": true
+		},
+		"дискорд": {
+			"label": "Discord",
+			"description": "Тег или ID пользователя.",
+			"type": "string"
+		},
+		"телеграм": {
+			"label": "Telegram",
+			"description": "Ссылка или юзернейм.",
+			"type": "string"
+		},
+		"реальное_имя": {
+			"label": "Реальное имя",
+			"description": "Известное имя игрока в жизни.",
+			"type": "string"
+		},
+		"статус": {
+			"label": "Статус",
+			"description": "Жив, Мертв, Забанен, Пропал без вести.",
+			"type": "string",
+			"suggested": true
+		},
+		"роль": {
+			"label": "Роль",
+			"description": "Администратор, Исследователь, Жертва и т.д.",
+			"type": "string"
+		},
+		"первое_появление": {
+			"label": "Первое появление",
+			"description": "Дата или событие, когда персонаж был впервые замечен.",
+			"type": "string"
+		},
+		"дата_смерти": {
+			"label": "Дата смерти",
+			"description": "Если персонаж погиб по лору.",
+			"type": "string"
+		},
+		"группировка": {
+			"label": "Группировка",
+			"description": "Принадлежность к клану или организации.",
+			"type": "string"
+		}
+	},
+	"format": "block"
+}
+&lt;/templatedata&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>jveihdq2q7hb3oy7rxxquxa2rap6iyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Шаблон:Служебная страница</title>
+    <ns>10</ns>
+    <id>342</id>
+    <revision>
+      <id>708</id>
+      <parentid>707</parentid>
+      <timestamp>2026-06-10T16:58:38Z</timestamp>
+      <contributor>
+        <username>Kotaz</username>
+        <id>32</id>
+      </contributor>
+      <minor/>
+      <comment>1 версия импортирована</comment>
+      <origin>707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="818" sha1="bz0kvr856oiv3r7zwxdgdw7w3sqjci8" xml:space="preserve">&lt;noinclude&gt;
+Этот шаблон размещается вверху служебных страниц (правила, справка, обсуждения), не являющихся статьями основного пространства.
+{{Документация}}&lt;/noinclude&gt;&lt;includeonly&gt;{| class="wikitable" style="width: 100%; margin: 0 0 15px 0; background: #f8f9fa; border: 1px solid #a2a9b1; border-left: 10px solid #777;"
+|-
+| style="vertical-align: middle; padding: 5px 10px;" | '''Эта страница является служебной.'''&lt;br /&gt;Она служит для организации работы проекта MyCraft Wiki и не является энциклопедической статьей о мире игры.
+|}
+[[Категория:Служебные]]
+&lt;/includeonly&gt;</text>
+      <sha1>bz0kvr856oiv3r7zwxdgdw7w3sqjci8</sha1>
+    </revision>
+  </page>
+</mediawiki>
