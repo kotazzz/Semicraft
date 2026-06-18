@@ -1,17 +1,29 @@
 ---
 title: Bobbies1
 type: игрок
-tags:
-  - player
-  - lore
 nickname: Bobbies1
 status: Активен
-role: Исследователь / Администратор архива
+role: Хранитель Semicraft Archive Drive, YouTube
 first_seen: 2026
-faction: Semicraft Archive Drive
-skin: Bobbies1_skin.png
-era: Эпоха 2026 года
+era: 2026
+tags:
+  - player
+  - contributor
+discord: "@Bobbiestm"
+translation: en/players/Bobbies1
+lang: ru
 ---
 
-* **Описание:** Активный игрок современной эпохи Semicraft (2026 год).
-* **Роль:** Является главным хранителем и смотрителем архивного накопителя данных по проекту (Semicraft Archive Drive). Ведет собственный YouTube-канал, где документирует аномальные события на сервере.
+> 🌐 [[en/players/Bobbies1|English version]]
+
+# Bobbies1
+
+Игрок эпохи **2026**. Главный хранитель **Semicraft Archive Drive** (MWD). Ведёт [YouTube-канал](https://www.youtube.com/@Bobbies2) с записями сервера.
+
+## Терминал
+
+> He runs his own YouTube channel where he records everything that happens on the server, and maintains a Google Drive with all the information about the server with his friends.
+
+![Bobbies1](images/terminal/Bobbies1.png)
+
+См. [[lore/Community Footage#Bobbies1|записи Bobbies]].

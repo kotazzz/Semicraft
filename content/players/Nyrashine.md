@@ -1,15 +1,29 @@
 ---
 title: Nyrashine
 type: игрок
+nickname: Nyrashine
+status: Мёртв (по лору)
+role: Создатель resource pack
+first_seen: неизвестно
+era: 2015
 tags:
   - player
-  - lore
-nickname: Nyrashine
-status: Мертв (по лору)
-first_seen: неизвестно
-skin: Steve.png
-era: Эпоха 2015 года (Первопроходцы)
+aliases:
+  - NyraShine
+translation: en/players/Nyrashine
+lang: ru
 ---
 
-* **Описание:** Архивный персонаж.
-* **Роль:** Известен как один из создателей официального текстур-пака (ресурс-пака) сервера Semicraft.
+> 🌐 [[en/players/Nyrashine|English version]]
+
+# Nyrashine
+
+Один из **создателей resource pack** Semicraft. По лору **найден мёртвым внутри базы**.
+
+## Терминал
+
+> NyraShine - One of the creators of the resource pack
+
+![Nyrashine](images/terminal/Nyrashine.png)
+
+См. «Nyra cave base» в [[lore/Community Footage#4laskanMariner|записях 4laskanMariner]].

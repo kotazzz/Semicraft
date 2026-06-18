@@ -2,7 +2,11 @@
 title: FAQ по подключению к Semicraft
 tags:
   - guides
+translation: en/guides/FAQ
+lang: ru
 ---
+
+> 🌐 [[en/guides/FAQ|English version]]
 
 > [!warning] Черновик
 > Необходимо добавить скриншоты типовых ошибок из клиента игры.

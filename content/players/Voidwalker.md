@@ -1,15 +1,24 @@
 ---
 title: Voidwalker
 type: игрок
-tags:
-  - player
-  - lore
 nickname: Voidwalker
 status: Пропал без вести
 first_seen: 2015
-skin: Voidwalker_skin.png
-era: Эпоха 2015 года (Первопроходцы)
+era: 2015
+tags:
+  - player
+aliases:
+  - VoidWalker
+translation: en/players/Voidwalker
+lang: ru
 ---
 
-* **Описание:** Игрок эпохи 2015 года, друг Jamer_77 и SlimeyPretty.
-* **Роль в лоре:** Внезапно и бесследно исчез прямо посреди сражения с Jamer_77. На текущий момент запись о его персонаже в системном терминале C.Y. отсутствует или не расшифрована.
+> 🌐 [[en/players/Voidwalker|English version]]
+
+# Voidwalker
+
+Игрок **2015** года. Друзья: **[[players/Jamer_77|Jamer_77]]**, **[[players/SlimeyPretty|SlimeyPretty]]**.
+
+## Исчезновение
+
+Бесследно пропал **посреди боя** с Jamer_77. **Запись в терминале отсутствует** (по глоссарию).
