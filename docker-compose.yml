@@ -1,0 +1,13 @@
+services:
+  semicraft-web:
+    image: nginx:alpine
+    container_name: semicraft-web
+    volumes:
+      - ./public:/usr/share/nginx/html:ro
+    networks:
+      - caddy
+    restart: unless-stopped
+
+networks:
+  caddy:
+    external: true
