@@ -1,3 +1,143 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// --- Typography (Cyrillic-friendly) ---
+body {
+  font-feature-settings: "kern" 1, "liga" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+// --- Page meta: keep date + reading time on one line ---
+p.content-meta {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+  margin-bottom: 1.25rem;
+
+  time {
+    white-space: nowrap;
+  }
+
+  span {
+    white-space: nowrap;
+  }
+}
+
+// --- Content area ---
+.center .page-header {
+  margin-bottom: 0.5rem;
+}
+
+article .markdown-preview-view {
+  line-height: 1.65;
+  max-width: 48rem;
+}
+
+// --- Hide duplicate h1 when frontmatter title is rendered above ---
+.page-header:has(.article-title) + article .markdown-preview-view > h1:first-child {
+  display: none;
+}
+
+article .markdown-preview-view h1:first-child {
+  margin-top: 0;
+}
+
+// --- After-body sections (graph, TOC, backlinks) ---
+.page-footer {
+  margin-top: 2rem;
+}
+
+.afterBody .graph,
+.afterBody .toc,
+.afterBody .backlinks {
+  max-width: 48rem;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+.afterBody .graph-outer {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.afterBody .graph h3,
+.afterBody .toc h3,
+.afterBody .backlinks h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+}
+
+// --- 404 page ---
+.not-found {
+  max-width: 32rem;
+  margin: 3rem auto;
+  text-align: center;
+
+  h1 {
+    font-size: 4rem;
+    line-height: 1;
+    margin-bottom: 0.5rem;
+    color: var(--secondary);
+  }
+
+  p {
+    font-size: 1.1rem;
+    color: var(--darkgray);
+    margin-bottom: 1.5rem;
+  }
+}
+
+.not-found-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+
+  a {
+    display: inline-block;
+    padding: 0.6rem 1.25rem;
+    border-radius: 0.375rem;
+    background: var(--secondary);
+    color: var(--light);
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.15s ease;
+
+    &:hover {
+      opacity: 0.88;
+    }
+
+    &.secondary {
+      background: transparent;
+      color: var(--secondary);
+      border: 1px solid var(--lightgray);
+    }
+  }
+}
+
+// --- Sidebar polish ---
+.left.sidebar {
+  .page-title a {
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+
+  .explorer .explorer-content {
+    font-size: 0.92rem;
+  }
+}
+
+// --- Broken wikilinks (crawl-links marks these) ---
+a.internal.broken {
+  text-decoration: line-through;
+  opacity: 0.55;
+  pointer-events: none;
+}

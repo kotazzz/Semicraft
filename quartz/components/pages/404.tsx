@@ -4,12 +4,18 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
   const baseDir = ctx.argv.serve ? "/" : url.pathname
+  const i = i18n(cfg.locale)
 
   return (
-    <article class="popover-hint">
+    <article class="not-found popover-hint">
       <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      <p>{i.pages.error.notFound}</p>
+      <div class="not-found-actions">
+        <a href={baseDir}>{i.pages.error.home}</a>
+        <a href={`${baseDir}en/`} class="secondary">
+          English home
+        </a>
+      </div>
       <script
         dangerouslySetInnerHTML={{
           __html: `

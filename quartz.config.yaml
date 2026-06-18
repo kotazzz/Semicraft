@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: PT Sans
+      body: PT Sans
+      code: JetBrains Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f7f7f8"
+        lightgray: "#e2e2e5"
+        gray: "#a8a8ae"
+        darkgray: "#3f3f46"
+        dark: "#18181b"
+        secondary: "#2563eb"
+        tertiary: "#64748b"
+        highlight: rgba(37, 99, 235, 0.08)
+        textHighlight: "#fef08a88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#121214"
+        lightgray: "#2a2a2e"
+        gray: "#71717a"
+        darkgray: "#e4e4e7"
+        dark: "#fafafa"
+        secondary: "#60a5fa"
+        tertiary: "#94a3b8"
+        highlight: rgba(96, 165, 250, 0.12)
+        textHighlight: "#fde04788"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -81,12 +81,13 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
-      priority: 30
+      position: afterBody
+      priority: 20
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
       markdownLinkResolution: shortest
+      disableBrokenWikilinks: true
     order: 60
   - source: github:quartz-community/description
     enabled: true
@@ -100,7 +101,7 @@ plugins:
     enabled: false
     order: 85
   - source: github:quartz-community/hard-line-breaks
-    enabled: true
+    enabled: false
     order: 90
   - source: github:quartz-community/ox-hugo
     enabled: false
@@ -119,12 +120,7 @@ plugins:
     options: {}
     order: 45
   - source: github:quartz-community/encrypted-pages
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
+    enabled: false
   - source: github:quartz-community/stacked-pages
     enabled: false
     layout:
@@ -160,7 +156,7 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     layout:
-      position: right
+      position: afterBody
       priority: 10
   - source: github:quartz-community/search
     enabled: true
@@ -173,8 +169,8 @@ plugins:
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
-      position: right
-      priority: 50
+      position: afterBody
+      priority: 30
   - source: github:quartz-community/article-title
     enabled: true
     layout:
@@ -202,11 +198,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
+    enabled: false
   - source: github:quartz-community/breadcrumbs
     enabled: true
     layout:
@@ -224,7 +216,9 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links: {}
+      links:
+        Главная: /
+        English: /en/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -236,7 +230,7 @@ plugins:
       priority: 25
       display: mobile-only
   - source: github:quartz-community/bases-page
-    enabled: true
+    enabled: false
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
@@ -248,28 +242,10 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
-  - source: github:quartz-community/obsidian-plugin-excalidraw
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
 layout:
   groups:
     toolbar:
@@ -278,11 +254,12 @@ layout:
       gap: 0.5rem
   byPageType:
     "404":
+      template: default
       positions:
-        beforeBody: []
-        left: []
         right: []
-    content: {}
+    content:
+      positions:
+        right: []
     folder:
       exclude:
         - reader-mode

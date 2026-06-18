@@ -17,17 +17,17 @@ Universal text cipher decoder: [CyberSwissKnife](https://kotazzz.github.io/Cyber
 
 ## Tool Table
 
-| Example | Tool | Demo |
-| --- | --- | --- |
-| Audio beep then noise | [SSTV Decoder](https://sstv-decoder.mathieurenaud.fr/) | ![SSTV spectrogram](images/Спектограма%20SSTV.png) |
-| Hidden frequencies in audio | [Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) | ![Hidden text](images/Скрытый%20текст.png) |
-| String of 0 and 1 | [Binary Decoder](https://cryptii.com/pipes/binary-decoder) | — |
-| HEX string | [Hex Decoder](https://cryptii.com/pipes/hex-decoder) | — |
-| String ending with `=` | [Base64 Decode](https://www.base64decode.org/) | — |
-| A–Z and 2–7 string | [Base32 Decode](https://emn178.github.io/online-tools/base32_decode.html) | — |
-| Mixed ASCII symbols | [ROT-47](https://www.dcode.fr/rot-47-cipher) | — |
-| Dots and dashes | [Morse Translator](https://morsecode.world/international/translator.html) | — |
-| 11 ID-like symbols | [YouTube](https://www.youtube.com/watch?v=1234567890x) | — |
+| Example | Tool |
+| --- | --- |
+| Audio beep then noise | [SSTV Decoder](https://sstv-decoder.mathieurenaud.fr/) |
+| Hidden frequencies in audio | [Spectrum Analyzer](https://academo.org/demos/spectrum-analyzer/) |
+| String of 0 and 1 | [Binary Decoder](https://cryptii.com/pipes/binary-decoder) |
+| HEX string | [Hex Decoder](https://cryptii.com/pipes/hex-decoder) |
+| String ending with `=` | [Base64 Decode](https://www.base64decode.org/) |
+| A–Z and 2–7 string | [Base32 Decode](https://emn178.github.io/online-tools/base32_decode.html) |
+| Mixed ASCII symbols | [ROT-47](https://www.dcode.fr/rot-47-cipher) |
+| Dots and dashes | [Morse Translator](https://morsecode.world/international/translator.html) |
+| 11 ID-like symbols | [YouTube](https://www.youtube.com/watch?v=1234567890x) |
 
 ## Media Processing Tips
 
